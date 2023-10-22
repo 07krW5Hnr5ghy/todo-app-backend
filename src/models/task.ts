@@ -7,7 +7,7 @@ const TaskSchema = new Schema<Task>(
             type: String,
             required: true,
         },
-        content: {
+        description: {
             type: String,
             required: true,
         },
