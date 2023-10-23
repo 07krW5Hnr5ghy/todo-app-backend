@@ -2,6 +2,7 @@
   "name": "todo-app-backend",
   "version": "0.1.0",
   "description": "backend todo app",
+  "main": "app.js",
   "scripts": {
     "dev": "nodemon ./src/app.ts",
     "build": "npx tsc",
