@@ -5,8 +5,8 @@
   "main": "app.js",
   "scripts": {
     "dev": "nodemon ./src/app.ts",
-    "build": "npx tsc",
-    "start": "node ./dist/app.js"
+    "start": "node ./app.js",
+    "build": "npx tsc"
   },
   "repository": {
     "type": "git",
